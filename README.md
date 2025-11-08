@@ -2,6 +2,7 @@ Vibe Commerce – Full Stack Shopping Cart App
 A basic yet complete full-stack shopping cart application built for Vibe Commerce screening.
 This app demonstrates UI, API, and database integration for e-commerce flows like product listing, add/remove from cart, checkout, and mock receipt generation.
 
+<img width="1514" height="1135" alt="Screenshot 2025-11-08 172942" src="https://github.com/user-attachments/assets/53f48e00-4fc7-40df-94b0-1f8206eb5d2a" />
 Features:
 Product Catalog: Displays a grid of products fetched from the backend.
 Database Seeding: Automatically seeds the database with 10 products from the Fake Store API on first launch.
@@ -49,3 +50,4 @@ Technical stack:
 | **Testing**          | Jest + Supertest           | Automated backend API integration tests       |
 | **Optional (Bonus)** | Fake Store API Integration | Alternative dynamic products source           |
 | **Version Control**  | GitHub                     | Repository & workflow verification            |
+
